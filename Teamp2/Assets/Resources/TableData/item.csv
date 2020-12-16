@@ -1,0 +1,7 @@
+Id	ItemType	prefabName	Value	Desc
+1	1	Prefabs/item/ItemHeal	100	Player의 HP를 소량 회복한다.
+2	2	Prefabs/item/itemExplose	3	발사되어있는 모든 미사일을 제거하고 3초간 총알이 발사가 안된다.
+3	1	Prefabs/item/ItemHeal	120	Player의 HP를 소량 회복한다.
+4	2	Prefabs/item/itemExplose	4	발사되어있는 모든 미사일을 제거하고 4초간 총알이 발사가 안된다.
+5	1	Prefabs/item/ItemHeal	150	Player의 HP를 소량 회복한다.
+6	2	Prefabs/item/itemExplose	5	발사되어있는 모든 미사일을 제거하고 5초간 총알이 발사가 안된다.
